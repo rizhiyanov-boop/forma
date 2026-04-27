@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Буква Ф — стилизованная, вписана в safezone 72dp -->
+    <path
+        android:pathData="M54,36 C54,36 54,72 54,72 M42,48 C36,48 36,60 42,60 L66,60 C72,60 72,48 66,48 L42,48 Z"
+        android:strokeColor="#D4FF3A"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+</vector>

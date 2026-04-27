@@ -1,0 +1,165 @@
+{
+  "contentKey": "triceps-extension",
+  "name": "Разгибания на трицепс",
+  "version": 1,
+  "content": [
+    {
+      "id": "triceps-extension-technique-elbows-fixed",
+      "type": "TECHNIQUE",
+      "text": "Держи локти почти на месте. Движение идёт в локтевом суставе, а не плечами вперёд-назад",
+      "weight": 1.5
+    },
+    {
+      "id": "triceps-extension-technique-full-lockout",
+      "type": "TECHNIQUE",
+      "text": "Внизу полностью разогни локти и сожми трицепс. Не бросай рукоять сразу после середины амплитуды"
+    },
+    {
+      "id": "triceps-extension-technique-shoulders-down",
+      "type": "TECHNIQUE",
+      "text": "Плечи держи вниз, шею свободной. Если трапеции включились, вес слишком тяжёлый"
+    },
+    {
+      "id": "triceps-extension-technique-wrist",
+      "type": "TECHNIQUE",
+      "text": "Кисти держи ровно, без сильного залома. Рукоять не должна ломать запястья в конце движения"
+    },
+    {
+      "id": "triceps-extension-technique-rope-split",
+      "type": "TECHNIQUE",
+      "text": "С канатом внизу слегка разведи концы в стороны. Это помогает дочувствовать полное разгибание"
+    },
+    {
+      "id": "triceps-extension-technique-torso",
+      "type": "TECHNIQUE",
+      "text": "Корпус слегка наклонён и стабилен. Не наваливайся всем весом на рукоять"
+    },
+    {
+      "id": "triceps-extension-technique-return",
+      "type": "TECHNIQUE",
+      "text": "Возвращай рукоять вверх медленно. Контроль на обратном пути держит трицепс под нагрузкой"
+    },
+    {
+      "id": "triceps-extension-technique-range",
+      "type": "TECHNIQUE",
+      "text": "Поднимай рукоять до растяжения трицепса без боли в локте. Верхняя точка должна быть комфортной"
+    },
+    {
+      "id": "triceps-extension-technique-grip-choice",
+      "type": "TECHNIQUE",
+      "text": "Если локтям некомфортно, попробуй канат вместо прямой рукояти. Свободнее кисти часто мягче для суставов"
+    },
+    {
+      "id": "triceps-extension-mistake-elbows-flare",
+      "type": "MISTAKE",
+      "text": "Не разводи локти широко в стороны. Так сложнее держать нагрузку в трицепсе и легче раздражать локти"
+    },
+    {
+      "id": "triceps-extension-mistake-bodyweight",
+      "type": "MISTAKE",
+      "text": "Не продавливай рукоять весом тела. Если приходится наваливаться, снизь нагрузку"
+    },
+    {
+      "id": "triceps-extension-mistake-half-reps",
+      "type": "MISTAKE",
+      "text": "Не останавливайся в середине амплитуды. Трицепсу нужен полный контролируемый разгиб"
+    },
+    {
+      "id": "triceps-extension-mistake-wrist-bent",
+      "type": "MISTAKE",
+      "text": "Не ломай кисти вниз в конце повтора. Держи запястья продолжением предплечий"
+    },
+    {
+      "id": "triceps-extension-mistake-shoulder-swing",
+      "type": "MISTAKE",
+      "text": "Не раскачивай плечи на каждом повторе. Это уже не изоляция трицепса, а попытка помочь корпусом"
+    },
+    {
+      "id": "triceps-extension-mistake-drop-stack",
+      "type": "MISTAKE",
+      "text": "Не бросай плитки вверх. Резкий возврат дёргает локти и убирает полезную часть повтора"
+    },
+    {
+      "id": "triceps-extension-mistake-pain-ignore",
+      "type": "MISTAKE",
+      "text": "Не продолжай через резкую боль в локте. Смени рукоять, снизь вес или останови упражнение",
+      "weight": 1.5
+    },
+    {
+      "id": "triceps-extension-mistake-too-heavy",
+      "type": "MISTAKE",
+      "text": "Слишком тяжёлый вес быстро превращает разгибания в жим всем телом. Трицепс любит контроль"
+    },
+    {
+      "id": "triceps-extension-motivation-clean-lockout",
+      "type": "MOTIVATION",
+      "text": "Твоя цель — чистое разгибание, а не большой стек. Внизу трицепс должен работать, а не корпус"
+    },
+    {
+      "id": "triceps-extension-motivation-elbow-care",
+      "type": "MOTIVATION",
+      "text": "Локти скажут спасибо за плавные повторы. Не покупай нагрузку ценой суставного раздражения"
+    },
+    {
+      "id": "triceps-extension-motivation-finish-set",
+      "type": "MOTIVATION",
+      "text": "Последние повторы могут гореть, но не должны быть рывками. Сохрани локти на месте"
+    },
+    {
+      "id": "triceps-extension-motivation-small-weight",
+      "type": "MOTIVATION",
+      "text": "Для трицепса не нужен рекордный вес. Хороший сет — это напряжение в мышце и спокойные локти"
+    },
+    {
+      "id": "triceps-extension-motivation-rir",
+      "type": "MOTIVATION",
+      "text": "Оставь запас, если локти начинают чувствоваться странно. Мышечная усталость и суставный сигнал — разные вещи"
+    },
+    {
+      "id": "triceps-extension-fact-triceps",
+      "type": "FACT",
+      "text": "Трицепс разгибает локоть и помогает во всех жимах. Сильный трицепс поддерживает жим лёжа"
+    },
+    {
+      "id": "triceps-extension-fact-long-head",
+      "type": "FACT",
+      "text": "Длинная головка трицепса пересекает плечевой сустав. Положение плеча может менять ощущение упражнения"
+    },
+    {
+      "id": "triceps-extension-fact-elbow-tendon",
+      "type": "FACT",
+      "text": "Сухожилия локтя не любят резкие скачки объёма. Прибавляй вес и подходы постепенно"
+    },
+    {
+      "id": "triceps-extension-fact-rope",
+      "type": "FACT",
+      "text": "Канат даёт кистям больше свободы, чем прямая рукоять. Поэтому он часто комфортнее для запястий и локтей"
+    },
+    {
+      "id": "triceps-extension-tip-breathing",
+      "type": "TIP",
+      "text": "Выдох на разгибании, вдох на возврате. Не задерживай дыхание на изоляционном упражнении"
+    },
+    {
+      "id": "triceps-extension-tip-warmup",
+      "type": "TIP",
+      "text": "Сделай первый подход легче и плавнее. Локтям часто нужно несколько повторов, чтобы почувствовать движение"
+    },
+    {
+      "id": "triceps-extension-tip-load",
+      "type": "TIP",
+      "text": "Выбирай вес, где можешь остановить рукоять внизу. Если она сразу летит вверх, контроль потерян"
+    },
+    {
+      "id": "triceps-extension-tip-red-flags",
+      "type": "TIP",
+      "text": "Резкая боль в локте, онемение пальцев или прострел по предплечью — стоп. Не продолжай подход через симптомы",
+      "weight": 1.5
+    },
+    {
+      "id": "triceps-extension-tip-rest",
+      "type": "TIP",
+      "text": "Отдых 60-90 секунд обычно хватает. Если локти начинают ныть, лучше остановить добивку"
+    }
+  ]
+}

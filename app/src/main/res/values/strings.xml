@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Форма</string>
+
+    <!-- Онбординг -->
+    <string name="onb_welcome_title">Добро пожаловать</string>
+    <string name="onb_welcome_subtitle">Персональная программа тренировок на основе твоих целей</string>
+    <string name="onb_goal_title">Какая у тебя цель?</string>
+    <string name="onb_level_title">Твой уровень подготовки</string>
+    <string name="onb_days_title">Сколько дней в неделю?</string>
+    <string name="onb_equipment_title">Какое оборудование доступно?</string>
+    <string name="onb_body_title">Немного о тебе</string>
+    <string name="onb_next">Далее</string>
+    <string name="onb_back">Назад</string>
+    <string name="onb_finish">Создать программу</string>
+    <string name="onb_generating">Составляю программу…</string>
+
+    <!-- Цели -->
+    <string name="goal_muscle">Набор мышечной массы</string>
+    <string name="goal_strength">Сила</string>
+    <string name="goal_fat_loss">Жиросжигание</string>
+    <string name="goal_endurance">Выносливость</string>
+    <string name="goal_general">Общий тонус</string>
+
+    <!-- Уровни -->
+    <string name="level_beginner">Новичок</string>
+    <string name="level_intermediate">Средний</string>
+    <string name="level_advanced">Продвинутый</string>
+
+    <!-- Оборудование -->
+    <string name="eq_barbell">Штанга</string>
+    <string name="eq_dumbbells">Гантели</string>
+    <string name="eq_machines">Тренажёры</string>
+    <string name="eq_pullup">Турник</string>
+    <string name="eq_bench">Скамья</string>
+    <string name="eq_cables">Блочные тренажёры</string>
+    <string name="eq_kettlebells">Гири</string>
+    <string name="eq_bodyweight">Своё тело</string>
+    <string name="eq_cardio">Кардиотренажёры</string>
+
+    <!-- Главный экран -->
+    <string name="home_today">Сегодня</string>
+    <string name="home_rest_day">День отдыха</string>
+    <string name="home_rest_subtitle">Отдых тоже часть тренировки</string>
+    <string name="home_start">Начать тренировку</string>
+    <string name="home_this_week">На этой неделе</string>
+    <string name="home_streak">Подряд</string>
+    <string name="home_workouts">Тренировок</string>
+    <string name="home_volume">Объём</string>
+
+    <!-- Тренировка -->
+    <string name="workout_finish">Завершить</string>
+    <string name="workout_set">Подход</string>
+    <string name="workout_reps">Повторы</string>
+    <string name="workout_weight">Вес, кг</string>
+    <string name="workout_rest">Отдых</string>
+    <string name="workout_add_set">Добавить подход</string>
+    <string name="workout_done">Тренировка завершена</string>
+
+    <!-- Общее -->
+    <string name="error_no_key">Не задан OpenAI API ключ. Добавьте OPENAI_API_KEY в local.properties</string>
+    <string name="error_network">Проблема с сетью. Попробуй ещё раз</string>
+    <string name="retry">Повторить</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+</resources>

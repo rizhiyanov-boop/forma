@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Bench press</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M14 20h36" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M10 16v8M54 16v8" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 40h24M24 40l-4 10M40 40l4 10" stroke="#6B6B70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 32c4-5 14-5 18 0" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25 31l-6-8M39 31l6-8" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="34" r="3" fill="#7AFFBD"/>
+</svg>
