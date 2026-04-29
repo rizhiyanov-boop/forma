@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Triceps extension</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M32 12v12" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 24h16" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="29" r="3" fill="#7AFFBD"/>
+  <path d="M28 33l-7 10M36 33l7 10" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M21 43v10M43 43v10" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M28 37h8M32 37v13" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+</svg>

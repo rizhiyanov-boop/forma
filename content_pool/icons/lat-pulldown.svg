@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Lat pulldown</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M20 14h24M32 14v8" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="29" r="3" fill="#7AFFBD"/>
+  <path d="M23 21l7 9M41 21l-7 9" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M29 34h6M28 37l-4 10M36 37l4 10" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22 50h20" stroke="#6B6B70" stroke-width="3" stroke-linecap="round"/>
+</svg>

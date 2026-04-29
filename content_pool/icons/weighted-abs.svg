@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Weighted abs</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M24 18c4-3 12-3 16 0M22 21c1 12 2 22 10 31 8-9 9-19 10-31" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="8" stroke="#7AFFBD" stroke-width="3"/>
+  <circle cx="32" cy="32" r="2" fill="#7AFFBD"/>
+  <path d="M28 44h8" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+</svg>

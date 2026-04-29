@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Biceps curl</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M23 39c1-9 7-15 15-15 5 0 8 3 8 7 0 6-5 10-12 10h-8" stroke="#D4FF3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 39l-5 8M34 41l3 8" stroke="#D4FF3A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M39 18l8 6M45 16l4 4" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="23" cy="39" r="3" fill="#7AFFBD"/>
+</svg>

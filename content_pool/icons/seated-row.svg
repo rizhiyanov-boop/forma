@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Seated row</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M48 18v30M44 18h8" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M45 26l-16 9" stroke="#6B6B70" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="25" cy="31" r="3" fill="#7AFFBD"/>
+  <path d="M28 34l8 3M22 35l-7 8h16" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19 44l-4 7M31 44l8 7" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 52h30" stroke="#6B6B70" stroke-width="3" stroke-linecap="round"/>
+</svg>

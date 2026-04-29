@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Face pull</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M50 14v36M46 16h8" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M47 24L33 30M47 24L35 36" stroke="#6B6B70" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="27" cy="31" r="3" fill="#7AFFBD"/>
+  <path d="M30 33l8-6M31 35l8 5" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27 36v12M27 48l-6 6M27 48l6 6" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+</svg>

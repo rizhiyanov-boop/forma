@@ -1,0 +1,5 @@
+## Скопируйте этот файл в local.properties и укажите ваш OpenAI API ключ
+## Файл local.properties не коммитится в git
+
+sdk.dir=/путь/к/Android/Sdk
+OPENAI_API_KEY=sk-...ваш_ключ_здесь

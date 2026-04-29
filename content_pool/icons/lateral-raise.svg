@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Lateral raise</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <circle cx="32" cy="24" r="4" fill="#7AFFBD"/>
+  <path d="M32 29v15" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M28 32l-12-7M36 32l12-7" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12 22l5 6M52 22l-5 6" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 44l-7 8M32 44l7 8" stroke="#6B6B70" stroke-width="3" stroke-linecap="round"/>
+</svg>

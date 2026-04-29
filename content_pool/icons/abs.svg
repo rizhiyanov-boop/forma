@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Abs</title>
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#141416" stroke="#26262A" stroke-width="2"/>
+  <path d="M24 17c4-3 12-3 16 0M22 20c1 12 2 23 10 32 8-9 9-20 10-32" stroke="#D4FF3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 28h10M26 36h12M28 44h8" stroke="#7AFFBD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 28l-5 7M44 28l5 7" stroke="#6B6B70" stroke-width="3" stroke-linecap="round"/>
+</svg>
